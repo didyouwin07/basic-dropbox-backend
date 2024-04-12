@@ -37,7 +37,7 @@ Before running the app, note the default authentication parameters:
 - **Default Authentication Parameters**:
   - `auth`: `true`
   - `username`: `admin`
-  - `password`: `password`
+  - `pass`: `password`
 
   For authentication, make sure to include these parameters in the headers of your request.
 
